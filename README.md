@@ -52,5 +52,9 @@ Here are some images of the FIT MIX paint mixer in action:
 - **C/C++**: Programming language used for coding.
 - **GRBL**: Open-source software for controlling CNC machines.
 
+- ## Watch the Demo
+- [Demo](https://youtu.be/P6W5qFSs5I4?si=Drepsw1ejsbe9KqN)  
+
+
 
 
